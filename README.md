@@ -10,13 +10,13 @@ The dashboard helps monitor complaints, billing performance, response times, and
 ## Dashboard Pages
 
 ### 🏠 Home
-[Home dashboard]("Images\Home.png")
+![Home dashboard](Images/Home.png)
 - Navigation panel
 - KPI overview
 - Dashboard summary
 
 ### 📈 Service Analysis
-[Service Analysis]("Images\ServiceAnalysis.png")
+![Service Analysis](Images/ServiceAnalysis.png)
 
 - Monthly complaint trend
 - Zone-wise complaints
@@ -24,14 +24,14 @@ The dashboard helps monitor complaints, billing performance, response times, and
 - Complaint status
 
 ### 💰 Billing Analysis
-[Billing Analysis]("Images\BillingAnalysis.png")
+![Billing Analysis](Images/BillingAnalysis.png)
 - Total billing
 - Zone-wise billing percentage
 - Monthly billing trend
 - Billing comparison
 
 ### 🛠 Complaint Analysis
-[Complaint Analysis]("Images\ComplaintsAnalysis.png")
+![Complaint Analysis](Images/ComplaintsAnalysis.png)
 
 - Complaint categories
 - Product-wise complaints
@@ -57,5 +57,5 @@ The dashboard helps monitor complaints, billing performance, response times, and
 
 ## Demo Video
 
-[DashboardVideo]("Video\DashboardDemo.mp4")
+![DashboardVideo](Video/DashboardDemo.mp4)
 
