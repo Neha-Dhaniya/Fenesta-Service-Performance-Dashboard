@@ -57,5 +57,5 @@ The dashboard helps monitor complaints, billing performance, response times, and
 
 ## Demo Video
 
-![DashboardVideo](Video/DashboardDemo.gif)
+![DashboardVideo](Video/DashboardDemo.mp4)
 
