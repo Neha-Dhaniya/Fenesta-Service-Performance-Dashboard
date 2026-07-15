@@ -16,7 +16,7 @@ The dashboard helps monitor complaints, billing performance, response times, and
 - Dashboard summary
 
 ### 📈 Service Analysis
-![Service Analysis](Images/ServiceAnalysis.png)
+![Service Analysis](Images/Service Analysis.png)
 
 - Monthly complaint trend
 - Zone-wise complaints
